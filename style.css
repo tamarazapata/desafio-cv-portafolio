@@ -1,0 +1,22 @@
+header {
+    background-color: rgb(210, 233, 240);
+    text-align: center;
+}
+main{
+    font-family: 'Montserrat', sans-serif;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+table, th, td {
+    border:1px solid black;
+}
+h1,h4 {
+    text-align:center
+}
+
+footer {
+    font-style: oblique;
+}
